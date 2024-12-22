@@ -26,4 +26,24 @@ console.log(convertedValue);
 // if "" => converted to flase
 // if " is not empty" => true
 
+/******************************** OPERATIONS ********************************/
+
+let value = 3 ;
+let negValue = -value;
+
+console.log(value);
+console.log(negValue);
+
+let a = "Abhishek";
+let b = " Anand";
+
+console.log(a+b);
+
+console.log("1"+2); // It will concatinate the value as in JAVA too
+console.log(1+2+"4"); //It will give 34 // Toprimitive takes input and then optional type
+
+console.log(3 + 4 *5/6); // DONT do this type of stuff, use parenthisis for operations 
+
+console.log(+true); // It gives 1 
+console.log(+"") //It gives 0 
 
