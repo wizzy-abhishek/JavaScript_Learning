@@ -8,7 +8,7 @@ console.log("const number => " + number);
 let email = "Abhishek.com" 
 /* 
  We have to use let cause it has the scope defination foor block or funcational scope
-  where as the var has no ide of scope defination.
+  where as the var has no idea of scope defination.
 */
 var name = "Abhishek"
 city = "Bhopal" 

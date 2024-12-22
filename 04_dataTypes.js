@@ -11,7 +11,6 @@ let name = "Abhishek"; //String
 let age = 21 ; //int
 let isLoggedIn = false // boolean
 
-
 /* Premitive */
 //number => 2 to power 53 max value 
 //bigInt
