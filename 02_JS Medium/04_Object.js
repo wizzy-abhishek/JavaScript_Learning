@@ -33,3 +33,9 @@ console.log(Object.values(regularUser));
 console.log(Object.entries(regularUser));
 
 console.log(regularUser.hasOwnProperty('email'));
+
+// Objects destructuring
+
+const {fullname : name} = regularUser
+
+console.log(name);
